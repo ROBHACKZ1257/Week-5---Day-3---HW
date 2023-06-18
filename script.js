@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
   
   // Do all of your work inside the document.addEventListener  
 
-  // Part 1
+  
 
 
   // Part 2
